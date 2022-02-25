@@ -27,3 +27,5 @@ jobs:
       - name: Test run
         run: |
           schemachange --help
+
+
